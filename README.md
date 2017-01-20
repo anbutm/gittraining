@@ -1,2 +1,2 @@
 # gittraining
-Git training session
+Git training session!
